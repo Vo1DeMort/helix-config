@@ -1,0 +1,22 @@
+[[language]]
+name = "python"
+language-servers = [ "pyright" ]
+
+[[language]]
+name = "typescript"
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "efm-lsp-prettier" ]
+
+[[language]]
+name = "go"
+language-servers = ["gopls"]
+
+
+[[language]]
+name = "css"
+language-servers = ["vscode-css-language-server"]
+
+[[language]]
+name = "html"
+language-servers = ["vscode-html-language-server"]
+
+# helix work with dart and flutter ,i think it's using flutter,dart sdk
