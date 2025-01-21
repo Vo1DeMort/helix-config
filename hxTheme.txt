@@ -1,0 +1,6 @@
+horizon-dark
+kanagawa
+material_oceanic
+monokai_soda
+rose_pine_moon
+sonokai

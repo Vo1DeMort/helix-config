@@ -1,0 +1,3 @@
+i can trigger wezterm and yazi from helix 
+
+all i have to do is set custom key bindings
