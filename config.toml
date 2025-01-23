@@ -1,4 +1,4 @@
-theme = "kanagawa"
+theme = "gruvbox"
 
 [editor]
 line-number = "relative"
@@ -7,13 +7,12 @@ bufferline = "always"
 true-color =true
 
 [editor.cursor-shape]
+insert = "bar"
 normal = "block"
 select = "underline"
 
 [editor.file-picker]
 hidden = false
-
-
 
 
 
